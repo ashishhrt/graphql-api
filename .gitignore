@@ -1,0 +1,9 @@
+node_modules/*
+.vscode/*
+.jshintrc
+.DS_*
+._.*
+cache/*
+temp.js
+logs/*
+.env
